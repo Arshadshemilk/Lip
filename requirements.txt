@@ -3,5 +3,5 @@ numpy
 imageio
 tensorflow
 Sequential
-cv2
+opencv-python
 typing
